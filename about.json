@@ -1,0 +1,38 @@
+{
+  "name": "KX Theme",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {},
+  "color_schemes": {
+    "KX Default": {
+      "primary": "e0e0e0",
+      "secondary": "2d2d2d",
+      "tertiary": "9a5cfd",
+      "quaternary": "71bd9f",
+      "header_background": "202020",
+      "header_primary": "e0e0e0",
+      "highlight": "9a5cfd",
+      "selected": "2f0177",
+      "hover": "535353",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "c16ad7"
+    }
+  },
+  "modifiers": {
+    "serialize_topic_excerpts": true
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966",
+  "settings": {
+    "use_dark_theme": {
+      "default": true,
+      "type": "bool",
+      "description": "Use dark theme colors"
+    }
+  }
+}
